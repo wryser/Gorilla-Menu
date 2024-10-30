@@ -1,7 +1,11 @@
-![image](https://github.com/user-attachments/assets/09f8e32f-22f7-422b-be3c-4cf276b1527b)
-
-Gorilla Menu is a modification for 'Gorilla Tag' that lets you configure settings for certain Wryser mods. (Custom pages will come at *some* point)
-
+<p align="center">
+    <img width="auto" height="auto" src="https://github.com/user-attachments/assets/09f8e32f-22f7-422b-be3c-4cf276b1527b" alt="GorillaMenu Art">
+</p>
+<p align="center">
+    <a href="https://www.patreon.com/wryser"><img width="50%" height="auto" src="https://blissfulhiker.com/wp-content/uploads/2023/12/support-me-on-patreon.png">
+</p>
+<h3 align="center">Gorilla Menu is a modification for 'Gorilla Tag' that lets you configure settings for certain Wryser mods. (Custom pages will come at *some* point)</h1>
+      
 # Features
 
 - Easily configure settings for mods (Currently only Wryser's)
