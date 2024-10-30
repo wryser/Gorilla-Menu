@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="auto" height="auto" src="https://github.com/user-attachments/assets/09f8e32f-22f7-422b-be3c-4cf276b1527b" alt="GorillaMenu Art">
+    <img width="90%" height="auto" src="https://github.com/user-attachments/assets/09f8e32f-22f7-422b-be3c-4cf276b1527b" alt="GorillaMenu Art">
 </p>
 <p align="center">
     <a href="https://www.patreon.com/wryser"><img width="50%" height="auto" src="https://blissfulhiker.com/wp-content/uploads/2023/12/support-me-on-patreon.png">
